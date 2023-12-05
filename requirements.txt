@@ -1,0 +1,4 @@
+requests==2.31.0
+web3==6.11.4
+loguru==0.7.2
+pyfiglet==0.8.post1
